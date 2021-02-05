@@ -1,0 +1,19 @@
+{
+  "name": "shadow2",
+  "version": "1.0.0",
+  "description": "shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellwoodsweb/shadow2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellwoodsweb/shadow2/issues"
+  },
+  "homepage": "https://github.com/bellwoodsweb/shadow2#readme"
+}
